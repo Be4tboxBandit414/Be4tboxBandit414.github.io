@@ -1,0 +1,54 @@
+.jumbotron {
+
+  background-image: url(assets/swing.jpg);
+  background-position: 50% 10%;
+  background-size: cover;
+  padding-bottom: 0px;
+  padding-top: 310px;
+  height: 100%
+
+}
+
+#data-jumbo-btn-online {
+
+  margin-left: 220px;
+  margin-bottom: 100px;
+  align-content: baseline;
+}
+
+#data-jumbo-btn-ctn {
+  margin-left: 180px;
+  margin-bottom: 0px:
+  align-content: baseline;
+}
+
+.progress {
+  margin-left: 10%
+}
+
+form {
+  font-weight: bolder;
+  align-content: right;
+  text-align: right;
+}
+
+select{
+  -webkit-appearance: menulist-button;
+   height: 30px;
+  width: 600px;
+  margin-left: 30%;
+  align-items: right;
+  float: right;
+}
+
+button {
+  height: 50px;
+  width: 200px;
+  text-align: center;
+
+}
+
+.centerbutton {
+  margin: 850 auto;
+    float: ;
+}
